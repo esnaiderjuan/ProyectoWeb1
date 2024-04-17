@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\bin\Debug\net8.0\mvcProyectoweb.Utilidades.deps.json
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\bin\Debug\net8.0\mvcProyectoweb.Utilidades.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\bin\Debug\net8.0\mvcProyectoweb.Utilidades.pdb
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\mvcProyectoweb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\mvcProyectoweb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\mvcProyectoweb.Utilidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\mvcProyectoweb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\mvcProyectoweb.Utilidades.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoweb.Utilidades.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\mvcProyectoweb.Utilidades.pdb
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoweb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoweb.Utilidades.dll

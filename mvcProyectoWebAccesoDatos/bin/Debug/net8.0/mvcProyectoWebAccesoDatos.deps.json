@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mvcProyectoWebAccesoDatos/1.0.0": {
+        "dependencies": {
+          "mvcProyectoweb.Models": "1.0.0",
+          "mvcProyectoweb.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "mvcProyectoWebAccesoDatos.dll": {}
+        }
+      },
+      "mvcProyectoweb.Models/1.0.0": {
+        "runtime": {
+          "mvcProyectoweb.Models.dll": {}
+        }
+      },
+      "mvcProyectoweb.Utilidades/1.0.0": {
+        "runtime": {
+          "mvcProyectoweb.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mvcProyectoWebAccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mvcProyectoweb.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mvcProyectoweb.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

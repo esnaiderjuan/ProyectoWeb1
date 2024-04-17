@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWebAccesoDatos.deps.json
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWebAccesoDatos.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoWebAccesoDatos.pdb
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoweb.Models.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoweb.Utilidades.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoweb.Models.pdb
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\bin\Debug\net8.0\mvcProyectoweb.Utilidades.pdb
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProye.89AB554A.Up2Date
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\refint\mvcProyectoWebAccesoDatos.dll
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\mvcProyectoWebAccesoDatos.pdb
+C:\Users\Usuario\source\repos\MvcProyecto1\mvcProyectoWebAccesoDatos\obj\Debug\net8.0\ref\mvcProyectoWebAccesoDatos.dll
